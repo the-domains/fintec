@@ -1,6 +1,6 @@
 name: Fintec
 favicon: null
-layout_spectrum: 0.38054
+layout_spectrum: 0.31877
 typography_spectrum: 0.39008
 title: Fintec Labs
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.08727658982388675
-  lightness: 0.455117478268221
-  saturation: 0.6328360179904848
-  rhythmicContrast: 0.009700363501906395
+    - '#ffffff'
+    - '#3b424a'
+    - '#f5bc33'
+    - '#1893aa'
+    - '#95999c'
+  brandStrength: 0.9375
+  lightness: 0.8125
+  saturation: 0.8125
+  rhythmicContrast: 0.5
 purpose: []
