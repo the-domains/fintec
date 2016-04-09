@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-09T19:51:37.097Z'
-dateModified: '2016-04-09T19:50:31.721Z'
+description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas bibendum nibh maximus nibh pretium, quis bibendum ante porttitor. Nullam consectetur eros lacinia augue porttitor scelerisque. In et nisl sodales, molestie felis vel, consectetur orci. Sed tempus eleifend nisl et eleifend. Nulla ultrices leo a pretium posuere. Aliquam arcu ligula, congue ut dignissim sed, vestibulum eu lectus. Quisque ac varius ante, elementum sollicitudin elit. Vestibulum sed velit dui. Nulla facilisi. Vestibulum imperdiet libero purus, et malesuada ex suscipit nec. Proin sed rhoncus ante. Nunc interdum ornare libero eget sollicitudin. Cras eu risus hendrerit, varius augue quis, fringilla dui. Sed bibendum vel enim at suscipit. Donec pulvinar turpis tellus, et vehicula eros hendrerit in.'
+datePublished: '2016-04-09T19:55:43.940Z'
+dateModified: '2016-04-09T19:55:07.506Z'
 title: About us
 author: []
 sourcePath: _posts/2016-04-09-reinventing-finance.md
@@ -22,6 +22,8 @@ url: reinventing-finance/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/153522bd-c974-4271-a9f3-f8bcda344e84.jpg)
+
 # About us
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas bibendum nibh maximus nibh pretium, quis bibendum ante porttitor. Nullam consectetur eros lacinia augue porttitor scelerisque. In et nisl sodales, molestie felis vel, consectetur orci. Sed tempus eleifend nisl et eleifend. Nulla ultrices leo a pretium posuere. Aliquam arcu ligula, congue ut dignissim sed, vestibulum eu lectus. Quisque ac varius ante, elementum sollicitudin elit. Vestibulum sed velit dui. Nulla facilisi. Vestibulum imperdiet libero purus, et malesuada ex suscipit nec. Proin sed rhoncus ante. Nunc interdum ornare libero eget sollicitudin. Cras eu risus hendrerit, varius augue quis, fringilla dui. Sed bibendum vel enim at suscipit. Donec pulvinar turpis tellus, et vehicula eros hendrerit in.
