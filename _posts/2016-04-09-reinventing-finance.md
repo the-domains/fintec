@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-09T19:50:23.843Z'
-dateModified: '2016-04-09T19:50:12.006Z'
+datePublished: '2016-04-09T19:51:37.097Z'
+dateModified: '2016-04-09T19:50:31.721Z'
 title: About us
 author: []
+sourcePath: _posts/2016-04-09-reinventing-finance.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-09-reinventing-finance.md
-published: true
 url: reinventing-finance/index.html
 _type: Article
 
